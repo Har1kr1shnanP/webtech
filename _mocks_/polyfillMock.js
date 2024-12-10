@@ -1,0 +1,2 @@
+// polyfillMock.js
+module.exports = {};
